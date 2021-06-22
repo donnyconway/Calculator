@@ -9,6 +9,6 @@ func internalsum(number int) int {
 }
 
 func Sum(N1, N2 int) (N3 int) {
-	N3 = N1 + N2
+	N3 = N1 + N2 + 10
 	return N3
 }
